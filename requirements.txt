@@ -1,0 +1,3 @@
+pandas
+matplotlib
+Databricks Runtime (or PySpark locally)
